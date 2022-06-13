@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "86416725274",
-    "project_id": "lugares-9e2b5",
-    "storage_bucket": "lugares-9e2b5.appspot.com"
+    "project_number": "730229347253",
+    "project_id": "tarea2app",
+    "storage_bucket": "tarea2app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:86416725274:android:3cb9867982b84f8f6108a3",
+        "mobilesdk_app_id": "1:730229347253:android:fb5ec66ffec7714eaefffc",
         "android_client_info": {
-          "package_name": "com.example.lugares"
+          "package_name": "com.example.tarea2app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "86416725274-ed5cl50gre6raren7jdamh1vs8a3uapo.apps.googleusercontent.com",
+          "client_id": "730229347253-vu780jqq5gnjts1us4691l4l8th40jtr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAiQ1cCGxjoyQb9zVh2LJP3i1Ez_FCwMII"
+          "current_key": "AIzaSyBQ7sL2pdpYAhBnpeDreZibDPO1VTVD5g4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "86416725274-ed5cl50gre6raren7jdamh1vs8a3uapo.apps.googleusercontent.com",
+              "client_id": "730229347253-vu780jqq5gnjts1us4691l4l8th40jtr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
